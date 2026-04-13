@@ -1,6 +1,6 @@
-# 🥢 BiteDash — Full-Stack Food Delivery App
+# 🥢 Chinese Express — Full-Stack Food Delivery App
 
-BiteDash is a complete, interview-ready full-stack web application built using the **MERN (MongoDB, Express, React, Node.js)** stack. This project is structured with clean, beginner-friendly programming patterns designed specifically to be easily explained during fresher and SDE-1 placement interviews.
+Chinese Express is a complete, interview-ready full-stack web application built using the **MERN (MongoDB, Express, React, Node.js)** stack. This project is structured with clean, beginner-friendly programming patterns designed specifically to be easily explained during fresher and SDE-1 placement interviews.
 
 ---
 
@@ -99,4 +99,3 @@ We have created dedicated, comprehensive placement study guides inside the root 
 
 ---
 
-Made with ❤️ for placement preparation | Lucknow, India 🇮🇳
