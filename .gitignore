@@ -11,3 +11,9 @@ dist/
 # System Files
 .DS_Store
 Thumbs.db
+
+# Interview & Study Guides
+INTERVIEW_GUIDE.md
+PROJECT_DEEP_EXPLANATION.md
+SIMPLE_AUTH_GUIDE.md
+STUDY_GUIDE.md
