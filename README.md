@@ -88,14 +88,5 @@ Chinese-Express-Food-App/
     ```
     Open your browser and navigate to **`http://localhost:5000`** to view the application!
 
----
 
-## 🎓 Placement & Interview Resources
-We have created dedicated, comprehensive placement study guides inside the root directory to help you prepare for your technical rounds:
-*   📄 **[INTERVIEW_GUIDE.md](INTERVIEW_GUIDE.md):** Summarizes core functions and answers the top 10 most common interview questions on this project.
-*   📄 **[PROJECT_DEEP_EXPLANATION.md](PROJECT_DEEP_EXPLANATION.md):** An exhaustive handbook mapping the full request-response lifecycle and database architectures.
-*   📄 **[SIMPLE_AUTH_GUIDE.md](SIMPLE_AUTH_GUIDE.md):** Walkthrough and testing commands for the clean Email & Password auth flow.
-*   📄 **[STUDY_GUIDE.md](STUDY_GUIDE.md):** Revision notes on React Hooks, Express routing, and NoSQL query optimizations.
-
----
 
