@@ -56,7 +56,7 @@ const AdminDashboard = () => {
         const config = {
           headers: { Authorization: `Bearer ${user.token}` },
         };
-        await axios.delete(`http://localhost:5000/api/food/${id}`, config);
+        await axios.delete(`${API_BASE_URL}/api/food/${id}`, config);
         setFoods(foods.filter((f) => f._id !== id));
         toast.success('Item deleted');
       } catch (err) {
