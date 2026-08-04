@@ -1,5 +1,7 @@
 # 🥢 Chinese Express — Full-Stack Food Delivery App
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render)](https://chinese-express-food-app.onrender.com)
+
 Chinese Express is a complete, interview-ready full-stack web application built using the **MERN (MongoDB, Express, React, Node.js)** stack. This project is structured with clean, beginner-friendly programming patterns designed specifically to be easily explained during fresher and SDE-1 placement interviews.
 
 ---
