@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: chinese-express-food-app
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: JWT_SECRET
+        generateValue: true
+      - key: MONGODB_URI
+        sync: false
+        description: "Your MongoDB connection string (e.g., MongoDB Atlas). Leave blank to use the built-in in-memory database."
